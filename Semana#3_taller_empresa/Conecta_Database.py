@@ -1,3 +1,4 @@
+#pip install mysql-connect-python   
 import mysql.connector
 
 conexion = mysql.connector.connect(
